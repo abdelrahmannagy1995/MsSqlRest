@@ -1,6 +1,6 @@
 @MssqlRest.API_HostAddress = http://localhost:5167
 
-GET {{MssqlRest.API_HostAddress}}/weatherforecast/
+GET {{MssqlRest.API_HostAddress}}/
 Accept: application/json
 
 ###
